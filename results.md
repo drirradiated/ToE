@@ -1,13 +1,13 @@
 # Results and Findings
 
 ## Overview
-This framework explores how fractional dynamics influence anomalous diffusion. The following results demonstrate the effects of varying fractional orders (\(\alpha\)) on system behavior.
+This framework explores how fractional dynamics influence anomalous diffusion. The following results demonstrate the effects of varying fractional orders (\(\alpha\)) on system behaviour.
 
 ## Key Results
 
 ### 1. Rare Event at \(\alpha = 0.2\)
 - **Observation**: A sharp positional jump occurs, suggesting a rare event driven by amplified memory effects.
-- **Interpretation**: This behavior may analogize singularities or critical transitions, such as the Big Bang.
+- **Interpretation**: This behaviour may analogize singularities or critical transitions, such as the Big Bang.
 - **Graph**:  
   ![Anomalous Diffusion for α = 0.2](../Anomalous_Diffusion_with_Memory_Effects.png)
 
