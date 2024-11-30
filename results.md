@@ -9,7 +9,7 @@ This framework explores how fractional dynamics influence anomalous diffusion. T
 - **Observation**: A sharp positional jump occurs, suggesting a rare event driven by amplified memory effects.
 - **Interpretation**: This behaviour may analogize singularities or critical transitions, such as the Big Bang.
 - **Graph**:  
-  ![Anomalous Diffusion for α = 0.2](../Anomalous_Diffusion_with_Memory_Effects.png)
+  ![Anomalous Diffusion for α = 0.2](../ToE/Anomalous_Diffusion_with_Memory_Effects.png)
 
 ### 2. Gradual Diffusion at \(\alpha = 0.5\)
 - **Observation**: The system shows balanced, stable diffusion, with moderate memory effects.
