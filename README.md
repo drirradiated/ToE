@@ -28,7 +28,7 @@ This documentation includes:
 ## Table of Contents
 1. [Introduction to Fractional Calculus](fractional_calculus.md)
 2. [Results and Findings](results.md)
-3. [How to Contribute](contributing.md)
+3. [How to Contribute](CONTRIBUTING.md)
 
 ## Getting Started
 Clone the repository and explore:
