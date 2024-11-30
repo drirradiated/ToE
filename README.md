@@ -16,9 +16,19 @@ This repository implements a hybrid **Theory of Everything (ToE)** model that in
 - Quantum mechanics
 - Fractional dimensions
 
+This documentation includes:
+1. An introduction to fractional calculus.
+2. Details about the results and visualizations.
+3. Instructions for running and contributing to the project.
+
 ## Features
 - **Fractional Calculus Solver**: Solve equations with fractional derivatives.
 - **Applications**: Examples in cryptography, astrophysics, and biology.
+
+## Table of Contents
+1. [Introduction to Fractional Calculus](fractional_calculus.md)
+2. [Results and Findings](results.md)
+3. [How to Contribute](contributing.md)
 
 ## Getting Started
 Clone the repository and explore:
